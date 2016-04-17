@@ -1,0 +1,25 @@
+{
+  "name": "Lab9",
+  "homepage": "https://github.com/xjing76/lab9",
+  "authors": [
+    "Jing Xie"
+  ],
+  "description": "task1",
+  "main": "Taks",
+  "keywords": [
+    "lab"
+  ],
+  "license": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "d3": "^3.5.16"
+  }
+}
